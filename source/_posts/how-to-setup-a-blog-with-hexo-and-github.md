@@ -1,7 +1,7 @@
 ---
 title: How to setup a blog with Hexo and Github
 date: 2017-04-30 22:18:40
-tags: Hexo, Github, Blog
+tags: [Hexo, Github, Blog]
 ---
 Start your blog with [Hexo](https://hexo.io/) and [Github](https://github.com/) in 5 minutes.
 
@@ -66,7 +66,7 @@ tz: 2016j
 *{ Error: Cannot find module './build/default/DTraceProviderBindings' … code: 'MODULE_NOT_FOUND' }*
 *{ Error: Cannot find module './build/Debug/DTraceProviderBindings' …’MODULE_NOT_FOUND’ }*
 
-reinstall the hexo-cli with **--no-optional**
+reinstall the hexo-cli with **\-\-no-optional**
 ``` bash
 $ sudo npm uninstall hexo-cli -g
 $ sudo npm install hexo-cli --no-optional -g
@@ -162,4 +162,5 @@ $ hexo generate -d
 * Hexo: https://hexo.io/
 * Hexo Themes: https://hexo.io/docs/themes.html
 * Theme Samples: https://hexo.io/themes/
+* Github Markdown: https://guides.github.com/features/mastering-markdown/
 
