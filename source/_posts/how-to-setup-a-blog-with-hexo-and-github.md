@@ -65,9 +65,9 @@ tz: 2016j
 
 **NOTE:** If you see ERRORs like below (e.g. on Mac OS)
 
-*{ Error: Cannot find module ‘./build/Release/DTraceProviderBindings' … code: 'MODULE_NOT_FOUND' }*
-*{ Error: Cannot find module './build/default/DTraceProviderBindings' … code: 'MODULE_NOT_FOUND' }*
-*{ Error: Cannot find module './build/Debug/DTraceProviderBindings' …’MODULE_NOT_FOUND’ }*
+> { Error: Cannot find module ‘./build/Release/DTraceProviderBindings' … code: 'MODULE_NOT_FOUND' }
+> { Error: Cannot find module './build/default/DTraceProviderBindings' … code: 'MODULE_NOT_FOUND' }
+> { Error: Cannot find module './build/Debug/DTraceProviderBindings' …’MODULE_NOT_FOUND’ }
 
 reinstall the hexo-cli with **\-\-no-optional**
 ``` bash
@@ -114,9 +114,9 @@ Now, you should be able to see your blog at http://localhost:4000/.
 
 **NOTE:** If you see ERRORs like below (e.g. on Mac OS)
 
-*{ Error: Cannot find module ‘./build/Release/DTraceProviderBindings' … code: 'MODULE_NOT_FOUND' }*
-*{ Error: Cannot find module './build/default/DTraceProviderBindings' … code: 'MODULE_NOT_FOUND' }*
-*{ Error: Cannot find module './build/Debug/DTraceProviderBindings' …’MODULE_NOT_FOUND’ }*
+> { Error: Cannot find module ‘./build/Release/DTraceProviderBindings' … code: 'MODULE_NOT_FOUND' }
+> { Error: Cannot find module './build/default/DTraceProviderBindings' … code: 'MODULE_NOT_FOUND' }
+> { Error: Cannot find module './build/Debug/DTraceProviderBindings' …’MODULE_NOT_FOUND’ }
 
 run this
 ``` bash 
