@@ -4,8 +4,8 @@
 
 # Site
 title: MrSeal
-subtitle: Learn, act and share.
-description: Blog of Fei Chen
+subtitle: Fei Chen's Blog
+description: Learn, act and share.
 author: Fei Chen
 language: en
 timezone: Europe/Dublin
@@ -63,7 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+#theme: yilia
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

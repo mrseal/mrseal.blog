@@ -2,6 +2,7 @@
 title: How to setup a blog with Hexo and Github
 date: 2017-04-30 22:18:40
 tags: [Hexo, Github, Blog]
+categories: Hexo
 ---
 Start your blog with [Hexo](https://hexo.io/) and [Github](https://github.com/) in 5 minutes.
 
