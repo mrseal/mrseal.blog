@@ -5,6 +5,8 @@ tags: [Hexo, Github, Blog]
 ---
 Start your blog with [Hexo](https://hexo.io/) and [Github](https://github.com/) in 5 minutes.
 
+<!-- more -->
+
 ## Prerequisites
 
 + [Git](https://git-scm.com/)
@@ -115,7 +117,7 @@ Now, you should be able to see your blog at http://localhost:4000/.
 *{ Error: Cannot find module './build/default/DTraceProviderBindings' … code: 'MODULE_NOT_FOUND' }*
 *{ Error: Cannot find module './build/Debug/DTraceProviderBindings' …’MODULE_NOT_FOUND’ }*
 
-Run this
+run this
 ``` bash 
 $ npm install hexo --no-optional
 ```
