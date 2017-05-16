@@ -73,7 +73,6 @@ Command Palette is a powerful tool where you can do many many things
 **Package Manager**
 
 1. Search "Sublime Text Package Manager" in google, and go to "Installation" page. Follow the instructions to install package manager in your sublime.
-
 2. Open command palette (cmd + shift + p), type "Install Package", and look for the package you want to install.
 
 
