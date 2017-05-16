@@ -38,7 +38,7 @@ https://www.sublimetext.com/
 
 When you have a folder opened in sublime, you will see the folder structure in the side panel
 
-|   Menu   |    Commands   |
+|   Keys   |    Commands   |
 |----------|:-------------:|
 | cmd + p | Goto anything  e.g. go to a file in the folder |
 
@@ -60,6 +60,23 @@ Additional
 |----------|:-------------:|
 | right click - Show Unsaved Changes... | show unsaved changes |
   
+
+### Command Palette
+
+Command Palette is a powerful tool where you can do many many things
+
+|   Keys   |    Commands   |
+|----------|:-------------:|
+| cmd + shift + p | open the command palette e.g. reverse, sort, set syntax (HTML, Markdown etc) |
+
+
+**Package Manager**
+
+1. Search "Sublime Text Package Manager" in google, and go to "Installation" page. Follow the instructions to install package manager in your sublime.
+
+2. Open command palette (cmd + shift + p), type "Install Package", and look for the package you want to install.
+
+
 ### Others
 
 |   Keys   |    Commands   |
