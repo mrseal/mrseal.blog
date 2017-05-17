@@ -10,7 +10,7 @@ https://www.sublimetext.com/
 ### Basics
 
 |   Mac OS   |   Windows   |   Commands   |
-|------------|:-----------:|:------------:|
+|------------|-------------|:------------:|
 | cmd + shift + l | ctrl + shift + l | split selection into lines |
 | cmd + d | ctrl + d | select a word<br/>select next occurance of the word |
 | cmd + left click | ctrl + left click | place multiple cursors |
@@ -22,7 +22,7 @@ https://www.sublimetext.com/
 ### Line and Indentation
 
 |   Mac OS   |   Windows   |   Commands   |
-|------------|:-----------:|:------------:|
+|------------|-------------|:------------:|
 | cmd + ctrl + up/down | ctrl + shift + up/down | move line vertically |
 | cmd + shift + d | ctrl + shift + d | duplicate line |
 | ctrl + shift + k | ctrl + shift + k | delete line |
@@ -39,7 +39,7 @@ https://www.sublimetext.com/
 When you have a folder opened in sublime, you will see the folder structure in the side panel
 
 |   Mac OS   |   Windows   |   Commands   |
-|------------|:-----------:|:------------:|
+|------------|-------------|:------------:|
 | cmd + p | ctrl + p | Goto anything  e.g. go to a file in the folder |
 
 Operators in Goto Search Box
@@ -66,7 +66,7 @@ Additional
 Command Palette is a powerful tool where you can do many many things
 
 |   Mac OS   |   Windows   |   Commands   |
-|------------|:-----------:|:------------:|
+|------------|-------------|:------------:|
 | cmd + shift + p | ctrl + shift + p | open the command palette e.g. reverse, sort, set syntax (HTML, Markdown etc) |
 
 
@@ -76,12 +76,12 @@ Command Palette is a powerful tool where you can do many many things
 2. Open command palette (cmd + shift + p), type "Install Package", and look for the package you want to install.  There's a few interesting packages such as Color Highlighter, Emmet (nice autofill tool for html, css ...) etc.
 
 |   Mac OS   |   Windows   |   Commands   |
-|------------|:-----------:|:------------:|
+|------------|-------------|:------------:|
 | ctrl + w | shift + ctrl + g | wrap with Emmet |
 
 ### Others
 
 |   Mac OS   |   Windows   |   Commands   |
-|------------|:-----------:|:------------:|
+|------------|-------------|:------------:|
 | alt + left click drag | shift + right click drag | column selection |
 | ctrl + shift + w | alt + shift + w | wrap selection with tag |
