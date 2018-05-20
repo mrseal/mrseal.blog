@@ -15,6 +15,7 @@ tags: [tools, shortcuts]
 ### Delete
 
 |   Keys   |    Command   |
+|----------|:-------------:|
 | dd | delete the entire line |
 | dw | delete the word |
 | d$ | delete from the current cursor to the end of the line |
