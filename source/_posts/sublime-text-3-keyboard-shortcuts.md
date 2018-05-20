@@ -1,7 +1,7 @@
 ---
 title: Sublime Text 3 Keyboard Shortcuts (Mac OS + Windows)
 date: 2017-05-16 18:25:32
-tags: [sublime, text editor, tools, shortcuts]
+tags: [sublime, text editor, tools, shortcuts, mac, windows]
 categories: Tools
 ---
 
